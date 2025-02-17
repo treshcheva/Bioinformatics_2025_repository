@@ -1,0 +1,75 @@
+I want to travel to Egypt.
+.
+├── #1.py
+├── #Наброски графиков.ini
+├── 1
+├── 12
+├── Applications
+├── Bioinformatics_2025
+├── Bioinformatics_2025_rep
+├── Bioinformatics_2025_repository
+├── Desktop
+├── Documents
+├── Downloads
+├── LAB1
+├── Library
+├── Movies
+├── Music
+├── Pictures
+├── Public
+├── PycharmProjects
+├── Untitled-1.ipynb
+├── Untitlede-1.ipynb
+├── Yandex.Disk.localized
+├── anaconda3
+├── cont3
+├── delete
+├── echo
+├── figure.png
+├── homework
+├── id_ed25519
+├── id_ed25519.pub
+├── id_rsa
+├── id_rsa.pub
+├── infa_2022_treshcheva
+├── lab test
+├── lab213 b
+├── lesson1
+├── opt
+├── seaborn-data
+├── Без названия.ipynb
+└── вудуеу 2
+
+20 directories, 20 files
+    7  cat my_hw_file.txt
+    8  mv my_hw_file.txt hw_file_1.txt\n
+    9  cat hw_file_1.txt\n
+   10  cd
+   11  ls
+   12  mkdir homework
+   13  cd homework
+   14  cp Bioinformatics_2025/hw/hw_1/hw_file_1.txt homework
+   15  cd
+   16  cp Bioinformatics_2025/hw/hw_1/hw_file_1.txt homework
+   17  cd homework
+   18  rm hw_file_1.txt
+   19  ls
+   20  cd
+   21   tree -L 1 >> Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   22  vim Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   19  ls
+   20  cd
+   21   tree -L 1 >> Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   22  vim Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   23  history >> Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   24  vim Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   25  cd Bioinformatics_2025_rep
+   26   git add Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   27  git add ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   28  git add hw_file_1.txt
+   29  git add hw_file_1.txt 
+   30  cd
+   31  cp Bioinformatics_2025/hw/hw_1/hw_file_1.txt Bioinformatics_2025_rep\n
+   32  cd Bioinformatics_2025_rep 
+   33  ls
+   34  git add hw_file_1.txt
